@@ -1,3 +1,9 @@
+:root{
+  --cor-de-fundo:#B1C29E;
+  --cor-de-texto:#FADA7A;
+  --cor-texto-dois:#F0A04B;
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
